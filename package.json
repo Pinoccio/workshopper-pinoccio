@@ -1,0 +1,21 @@
+{
+  "name": "workshopper-pinoccio",
+  "description": "Hardware + Node workshopper for Pinoccio",
+  "version": "0.0.0",
+  "repository": {
+    "url": "git://github.com/pinoccio/workshopper-pinoccio.git"
+  },
+  "main": "index.js",
+  "scripts": {
+    "test": "tape test/*.js"
+  },
+  "author": "Ryan Day",
+  "dependencies": {
+    "workshopper": "^1.0.0-alpha07",
+    "workshopper-exercise": "^0.2.3",
+    "colors-tmpl": "^0.1.0"
+  },
+  "devDependencies": {
+    "tape": "^2.12.3"
+  }
+}

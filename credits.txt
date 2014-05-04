@@ -1,0 +1,6 @@
+{yellow}{bold}pinoccio-workshop is brought to you by the following dedicated hackers:{/bold}{/yellow}
+
+{bold}Name          GitHub Username{/bold}
+-----------------------------------
+Ryan Day            @soldair
+Team Pinoccio       @pinoccio
