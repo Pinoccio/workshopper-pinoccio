@@ -1,4 +1,4 @@
 workshopper-pinoccio
 ====================
 
-nodeschool.io style lean you pinoccio for much win
+nodeschool.io style learn you pinoccio for much win
